@@ -25,6 +25,5 @@
 # 4 Ivermectin
 
 - Streptomyces avermitilis (Soil Bacteria)
-- GLP-1 receptor
-
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7172803/
 
