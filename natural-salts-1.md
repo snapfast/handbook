@@ -16,9 +16,15 @@
 
 > More research needed to attribute nature here
 
-
 # 3 Semaglutide
 
-- Ozempic -
-- 
+- Ozempic - Gila Monster - Reptile Venom
+- GLP-1 receptor
+- https://doi.org/10.2147/CLEP.S456170
+
+# 4 Ivermectin
+
+- Streptomyces avermitilis (Soil Bacteria)
+- GLP-1 receptor
+
 
